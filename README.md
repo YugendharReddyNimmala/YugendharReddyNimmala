@@ -9,13 +9,13 @@
 
 ---
 
-## Profile
+## 📜 Profile
 
 🧑‍💻 **Dependable and quick-learning team player** with effective communication and organization skills. Known for customer service excellence, event organization, volunteering, and providing assistance. Available for work mornings, nights, and weekdays.
 
 ---
 
-## Education
+## 🎓 Education
 
 🎓 **Master's in Computer Science**  
 *University of Missouri Kansas City*  
@@ -28,7 +28,7 @@
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### **Associate Software Engineer**  
 *Innova Solutions, Hyderabad, India*  
@@ -52,7 +52,7 @@
 
 ---
 
-## Software Exposure
+## 🛠️ Software Exposure
 
 🛠️ **Languages:** C, C#, SQL, Python  
 🌐 **Frontend Technologies:** HTML, CSS, Bootstrap, JavaScript  
@@ -61,7 +61,7 @@
 
 ---
 
-## Internships
+## 💼 Internships
 
 ### **Apprentice**  
 *Electronics Corporation of India Limited (ECIL)*  
@@ -70,7 +70,28 @@
 
 ---
 
-## Publications
+## 📄 Publications
 
 📄 **Plant Diseases Prediction using Image Processing**  
-- Published in the *Internati
+- Published in the *International Journal of Health Sciences* (ISSN: 2550-6978) in Special Issue IV.
+- Presented at the *National Conference on Recent Advances in Engineering and Technology (NCRAET-22)* on May 28, 2022, in Delhi, India.
+
+---
+
+## 📝 Declaration
+
+I hereby declare that the above-mentioned information is true and correct to the best of my knowledge and belief. I shall be solely responsible for any discrepancies found in them.
+
+---
+
+## ⚡ Technologies and Tools
+
+![Technologies](https://img.shields.io/badge/Technologies-.NET%20Core%2C%20C%23%2C%20SQL%2C%20Python-yellow?style=flat-square)  
+![Frontend](https://img.shields.io/badge/Frontend-HTML%2C%20CSS%2C%20JavaScript-lightblue?style=flat-square)  
+![Backend](https://img.shields.io/badge/Backend-.NET%20Core%2C%20. NET%20Framework-green?style=flat-square)
+
+---
+
+## 🛠️ Currently Learning
+
+![Learning](https://img.shields.io/badge/Currently%20Learning-Cybersecurity%2C%20Cloud%20Computing%20%2D%20Master's%20in%20Computer%20Science-orange?style=flat-square)
