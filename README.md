@@ -1,10 +1,10 @@
 # Yugendhar Reddy Nimmala 🚀  
 *Passionate Software Engineer | Cybersecurity Enthusiast | Lifelong Learner*
 
-- 📧 **Email:** [yr6cw@umkc.edu](mailto:yr6cw@umkc.edu)
+- 📧 **Email:** yr6cw@umkc.edu
 - 📱 **Phone:** +1 913 343 8736
 - **Location:** Kansas City, MO 64109
-- **LinkedIn:** [Yugendhar Reddy Nimmala](https://www.linkedin.com/in/yugendhar-reddy-nimmala-58b319161/)
+- **LinkedIn:** Yugendhar Reddy Nimmala
 
 ---
 
@@ -16,23 +16,26 @@ Dependable and quick-learning team player with effective communication and organ
 
 ## 🎓 Education
 
-**Master's in Computer Science** - *University of Missouri Kansas City*
+**Master's in Computer Science** - University of Missouri Kansas City (01/2024 – 01/2026)
 
 ---
 
 ## 💼 Professional Experience
 
-### **Associate Software Engineer**   
+### **Associate Software Engineer**  
+*Innova Solutions, Hyderabad, India*  
 **Project:** Global Solutions Delivery  
 - Developed and maintained the GSD portal for employee skill management using **.NET Core, C#, Angular**, and **Elastic Search**.
 - Enhanced user experience and streamlined processes through feature implementation and collaboration with cross-functional teams, showcasing teamwork and problem-solving abilities.
 
 ### **Junior Software Engineer**  
+*Innova Solutions, Hyderabad, India*  
 **Project:** Money Exchange Platform  
 - Contributed to the development of a money exchange platform for a prominent Kuwait-based exchange house, demonstrating adaptability and analytical skills.
 - Developed back-end functionality using **.NET Core** and **C#** coding.
 
 ### **Trainee Software Engineer**  
+*Innova Solutions, Hyderabad, India*  
 - Completed a six-month training program with a focus on key technologies: **.NET Core, .NET Framework, .NET Core MVC, SQL, CSS, HTML, JavaScript**.
 - Gained a strong foundation in development methodologies and practical exposure to real-world software challenges.
 
@@ -67,7 +70,5 @@ Dependable and quick-learning team player with effective communication and organ
 
 I am actively exploring opportunities in **cybersecurity**, **software development**, and **data science**. Feel free to reach out or connect!
 
-- **LinkedIn:** [Yugendhar Reddy Nimmala](https://www.linkedin.com/in/yugendhar-reddy-nimmala-58b319161/)
-- **Email:** [yr6cw@umkc.edu](mailto:yr6cw@umkc.edu)
-
-
+- **Email:** yr6cw@umkc.edu
+- **LinkedIn:** Yugendhar Reddy Nimmala
