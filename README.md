@@ -16,14 +16,7 @@ Dependable and quick-learning team player with effective communication and organ
 
 ## 🎓 Education
 
-**Master's in Computer Science**  
-*University of Missouri Kansas City*  
-*January 2024 – January 2026*
-
-**Bachelor of Technology**  
-*Gokaraju Rangaraju Institute of Engineering and Technology*  
-*July 2019 – May 2022*  
-*Hyderabad, India*
+**Master's in Computer Science** - *University of Missouri Kansas City*
 
 ---
 
@@ -31,21 +24,18 @@ Dependable and quick-learning team player with effective communication and organ
 
 ### **Associate Software Engineer**  
 *Innova Solutions, Hyderabad, India*  
-*June 2023 - December 2023*  
 **Project:** Global Solutions Delivery  
 - Developed and maintained the GSD portal for employee skill management using **.NET Core, C#, Angular**, and **Elastic Search**.
 - Enhanced user experience and streamlined processes through feature implementation and collaboration with cross-functional teams, showcasing teamwork and problem-solving abilities.
 
 ### **Junior Software Engineer**  
 *Innova Solutions, Hyderabad, India*  
-*June 2022 - May 2023*  
 **Project:** Money Exchange Platform  
 - Contributed to the development of a money exchange platform for a prominent Kuwait-based exchange house, demonstrating adaptability and analytical skills.
 - Developed back-end functionality using **.NET Core** and **C#** coding.
 
 ### **Trainee Software Engineer**  
 *Innova Solutions, Hyderabad, India*  
-*June 2022 - November 2022*  
 - Completed a six-month training program with a focus on key technologies: **.NET Core, .NET Framework, .NET Core MVC, SQL, CSS, HTML, JavaScript**.
 - Gained a strong foundation in development methodologies and practical exposure to real-world software challenges.
 
@@ -64,7 +54,6 @@ Dependable and quick-learning team player with effective communication and organ
 
 ### **Apprentice**  
 *Electronics Corporation of India Limited (ECIL)*  
-*May 2018 - November 2018*  
 - Interned with the Communication Networks System Group (CNSG) and worked on the **"M7 V/UHF Digital Transceiver"** project.
 
 ---
@@ -80,3 +69,4 @@ Dependable and quick-learning team player with effective communication and organ
 ## 📝 Declaration
 
 I hereby declare that the above-mentioned information is true and correct to the best of my knowledge and belief. I shall be solely responsible for any discrepancies found in them.
+
